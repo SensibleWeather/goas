@@ -1,3 +1,6 @@
+# Archived!!
+This repository is no longer maintained. If you're a LaunchDarkly team member looking to work on goas reach out to the docs team for more info.
+
 # goas
 The project is based on  
 - [yvasiyarov/swagger](https://github.com/yvasiyarov/swagger) repository.  
