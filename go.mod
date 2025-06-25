@@ -1,4 +1,4 @@
-module github.com/launchdarkly/goas
+module github.com/sensibleweather/goas
 
 go 1.23.0
 
